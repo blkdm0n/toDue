@@ -1,0 +1,12 @@
+{
+  "name": "toDue",
+  "version": "1.0",
+  "description": "a simple todo application using local storage",
+  "main": "index.js",
+  "repository": "git@github.com:blkdm0n/toDue.git",
+  "author": "Bernard Kitchens <bernard.kitchens@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jasmine": "^3.2.0"
+  }
+}
