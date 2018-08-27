@@ -6,7 +6,5 @@
   "repository": "git@github.com:blkdm0n/toDue.git",
   "author": "Bernard Kitchens <bernard.kitchens@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "jasmine": "^3.2.0"
-  }
+  "dependencies": {}
 }
